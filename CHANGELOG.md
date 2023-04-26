@@ -9,8 +9,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- default CONTRIBUTING.md
+
+## [0.1.0] — 2023-04-25
+
+### Added
+
 - default CODE_OF_CONDUCT.md
 - default ISSUE_TEMPLATE/bug_report.yml
 - default ISSUE_TEMPLATE/feature_request.yml
 
-[Unreleased]: https://github.com/gimjb/.github/compare/HEAD...develop
+[unreleased]: https://github.com/gimjb/.github/compare/HEAD...develop
+[0.1.0]: https://github.com/gimjb/.github/compare/v0.0.0...v0.1.0
