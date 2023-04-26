@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1] — 2023-04-26
+
 ### Added
 
 - default CONTRIBUTING.md
@@ -19,5 +21,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - default ISSUE_TEMPLATE/bug_report.yml
 - default ISSUE_TEMPLATE/feature_request.yml
 
-[Unreleased]: https://github.com/gimjb/.github/compare/HEAD...develop
+[unreleased]: https://github.com/gimjb/.github/compare/HEAD...develop
+[0.1.1]: https://github.com/gimjb/.github/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/gimjb/.github/compare/v0.0.0...v0.1.0
