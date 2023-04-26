@@ -36,7 +36,7 @@ issue tracker. Here are some guidelines for submitting an issue:
 
 - **Use labels to help organize issues.** We use labels to categorize issues and
   help us prioritize them. When you submit an issue, please assign appropriate
-  labels to it. If you're not sure which labels to use, you can ask for help in
+  labels to it. If you’re not sure which labels to use, you can ask for help in
   the issue comments.
 
 #### Feature Requests
@@ -58,7 +58,7 @@ possible, including:
 
 Use labels to help organize feature requests. We use labels to categorize issues
 and help us prioritize them. When you submit a feature request, please assign
-appropriate labels to it. If you're not sure which labels to use, you can ask
+appropriate labels to it. If you’re not sure which labels to use, you can ask
 for help in the issue comments.
 
 ### Pull Requests
@@ -67,8 +67,8 @@ If you want to contribute code to the project, you can do so by submitting a
 pull request. Here are some guidelines for submitting a pull request:
 
 - **Make sure there is an issue related to your change.** Before you start
-  working on your changes, it's a good idea to check the issue tracker to see if
-  there is an existing issue related to your proposed change. If there isn't an
+  working on your changes, it’s a good idea to check the issue tracker to see if
+  there is an existing issue related to your proposed change. If there isn’t an
   existing issue, you can create one to discuss your proposal with the project
   maintainers and other contributors.
 
@@ -80,23 +80,23 @@ pull request. Here are some guidelines for submitting a pull request:
 
 - **Fork and clone the repository.** Before you start working on your changes,
   you should fork the repository and clone it to your local machine. You can do
-  this by clicking the "Fork" button on the project's GitHub page, and then
+  this by clicking the “Fork” button on the project’s GitHub page, and then
   running git clone to download the code.
 
-- **Create a branch for your changes.** When you're ready to start working on
+- **Create a branch for your changes.** When you’re ready to start working on
   your changes, create a new branch in your forked repository to isolate your
   changes from the master branch. You can name your branch anything you like,
-  but it's a good idea to choose something descriptive that summarizes your
+  but it’s a good idea to choose something descriptive that summarizes your
   changes.
 
-- **Make your changes and commit them.** Once you've created your branch, you
+- **Make your changes and commit them.** Once you’ve created your branch, you
   can make your changes to the code. Make sure to write clear and concise commit
   messages that explain what you changed and why. <!-- Todo: Add link to commit
   message guidelines. -->
 
-- **Push your changes and submit a pull request.** When you're finished making
+- **Push your changes and submit a pull request.** When you’re finished making
   your changes, push your branch to your forked repository and submit a pull
-  request to the main project. We'll review your changes and provide feedback,
+  request to the main project. We’ll review your changes and provide feedback,
   and we may ask you to make additional changes before we merge your code.
 
 - **Be open to feedback and discussion.** Pull requests are a collaborative
